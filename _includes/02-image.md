@@ -1,1 +1,1 @@
-(https://github.com/wtubmanbryan)
+[Picture](https://github.com/wtubmanbryan)
