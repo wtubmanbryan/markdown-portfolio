@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_Critical Thinker_,
+**Attentive to Details**,
+**JavaScript Proficient**,
+_Computer Proficient_,
+*HTML*,
+*CSS*, &
+**MS Sharepoint**,
